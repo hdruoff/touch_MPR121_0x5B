@@ -1,8 +1,11 @@
 {
-    "name": "Touch",
+    "name": "Touch_new",
     "description": "",
     "dependencies": {
-        "core": "*"
+        "core": "*",
+        "pxt-calliope-grove-mpr121": "github:hdruoff/pxt-calliope-grove-mpr121#f8279d0fab1b0a8edd6fd36dbacfbae3f48fb97e",
+        "TouchKit": "github:tinysuperlab/touchkit#63db8163ac919110724531f71499a212aba0394c",
+        "pxt-mpr121": "github:MKleinSB/pxt-mpr121#v0.0.21"
     },
     "files": [
         "main.blocks",
